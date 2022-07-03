@@ -10,3 +10,5 @@ Electronics
 Desk Logic
 Turing
 Network Science and associated articles (Wikipedia)
+Deep Reinforcement Learning
+  Alpha Go
