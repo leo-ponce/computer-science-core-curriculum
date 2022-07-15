@@ -16,6 +16,8 @@ Network Science and associated articles (Wikipedia)
 Deep Reinforcement Learning
   Alpha Go
 
+##Technologies
+<br/> Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals 
 <br/>##Computer Science Mathematics##
 <br/>Statistics
 <br/>Linear Algebra
@@ -27,6 +29,7 @@ Deep Reinforcement Learning
 <br/>##Key Figures
 Tim Berner's Lee
 Various language developer's
+
 
 <br/>Key Events in Computing
 Charles Babbage
