@@ -1,6 +1,7 @@
 # computer-science-core-curriculum
 
 Think like a computer scientist
+Grokking Algorithms
 Algos for everyday life
 MIT CS intro class
 Harvard intro class
