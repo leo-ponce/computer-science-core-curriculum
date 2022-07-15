@@ -5,6 +5,8 @@ Grokking Algorithms
 Algos for everyday life
 MIT CS intro class
 Harvard intro class
+    leo6pon
+  
 Key figures
 Boolean
 Electronics
@@ -14,10 +16,20 @@ Network Science and associated articles (Wikipedia)
 Deep Reinforcement Learning
   Alpha Go
 
-##Computer Science Mathematics##
-Statistics
-Linear Algebra
-Discrete MAth
-Graph Theory
-Multivariable Calculus
-Differential Equations
+<br/>##Computer Science Mathematics##
+<br/>Statistics
+<br/>Linear Algebra
+<br/>Discrete MAth
+<br/>Graph Theory
+<br/>Multivariable Calculus
+<br/>Differential Equations
+
+<br/>##Key Figures
+Tim Berner's Lee
+Various language developer's
+
+<br/>Key Events in Computing
+Charles Babbage
+Transistors
+Semiconductors
+Quantum Computing
