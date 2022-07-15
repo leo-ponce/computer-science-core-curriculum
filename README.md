@@ -13,3 +13,11 @@ Turing
 Network Science and associated articles (Wikipedia)
 Deep Reinforcement Learning
   Alpha Go
+
+##Computer Science Mathematics##
+Statistics
+Linear Algebra
+Discrete MAth
+Graph Theory
+Multivariable Calculus
+Differential Equations
