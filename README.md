@@ -33,3 +33,6 @@ Charles Babbage
 Transistors
 Semiconductors
 Quantum Computing
+
+##Tech Culture
+The New Hacker's Dictionary https://www.amazon.com/New-Hackers-Dictionary-3rd/dp/0262680920/ref=zg_bs_280292_30/141-9801121-3084632?pd_rd_i=0262680920&psc=1#customerReviews
